@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: ''
+level: '1.40'
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'When communications with the ground are possible, the ETS shall allow the reporting/downlinking of events as they occur in accordance with registered reporting policies.'

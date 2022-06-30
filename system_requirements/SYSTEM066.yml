@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: ''
+level: 1.65
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The ETS shall not maintain statistics about event reporting beyond that necessary to track whether an event still needs to be retained in accordance with registered event retention policies.'

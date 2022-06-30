@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: ''
+level: 1.33
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The ETS shall have a facility for specifying the priority of an event when specifying the event.'

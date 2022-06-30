@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: ''
+level: 1.26
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The specification of event reporting policies shall be possible at runtime without requiring source code changes.'

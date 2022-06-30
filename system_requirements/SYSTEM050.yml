@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: ''
+level: 1.49
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The ETS shall have the capability of retaining events that occur during platform startup.'

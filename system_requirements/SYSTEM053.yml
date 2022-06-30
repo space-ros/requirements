@@ -1,0 +1,9 @@
+active: true
+derived: false
+header: ''
+level: 1.52
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: 'The ETS shall keep all retained events across a full restart of the spacecraft and flight software.'
