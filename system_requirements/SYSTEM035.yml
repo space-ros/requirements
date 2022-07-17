@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.34
+level: 34
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'When the limit on retained events is reached, the ETS shall automatically determine which events to discard and which to retain based on event retention policies available at the time.'
+text: |
+  When the limit on retained events is reached, the ETS shall automatically determine which events to discard and which to retain based on event retention policies available at the time.

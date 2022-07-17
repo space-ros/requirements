@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.39
+level: 39
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall allow the reporting of individual retained events to be triggered manually by an event consumer.'
+text: |
+  The ETS shall allow the reporting of individual retained events to be triggered manually by an event consumer.

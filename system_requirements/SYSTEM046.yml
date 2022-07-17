@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.45
+level: 45
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall have the capability of reporting statistical summaries of event occurrences as an alternative to the events themselves to event consumers.'
+text: |
+  The ETS shall have the capability of reporting statistical summaries of event occurrences as an alternative to the events themselves to event consumers.

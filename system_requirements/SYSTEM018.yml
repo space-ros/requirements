@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.17
+level: 17
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'Event data shall be robust to corruption.'
+text: |
+  Event data shall be robust to corruption.

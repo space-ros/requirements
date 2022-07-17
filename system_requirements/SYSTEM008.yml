@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.7
+level: 8
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'An event shall include a priority.'
+text: |
+  An event shall include a priority.

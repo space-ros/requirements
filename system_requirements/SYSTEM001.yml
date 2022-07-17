@@ -6,4 +6,5 @@ links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall store events that occur in the spacecraft.'
+text: |
+  The ETS shall store events that occur in the spacecraft.

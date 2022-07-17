@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.22
+level: 22
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'An event retention policy shall rely on event type, event priority, event identifier, and event frequency over a given time window.'
+text: |
+  An event retention policy shall rely on event type, event priority, event identifier, and event frequency over a given time window.

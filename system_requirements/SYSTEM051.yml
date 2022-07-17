@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: '1.50'
+level: 50
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall have the capability of retaining events that occur during application startup.'
+text: |
+  The ETS shall have the capability of retaining events that occur during application startup.

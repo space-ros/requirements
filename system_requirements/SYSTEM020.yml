@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.19
+level: 19
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall allow specification of event retention policies.'
+text: |
+  The ETS shall allow specification of event retention policies.

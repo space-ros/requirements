@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.48
+level: 48
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'When an event value is outside its trend, the ETS shall create an event.'
+text: |
+  When an event value is outside its trend, the ETS shall create an event.

@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.58
+level: 58
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The performance overhead of an event being reported to interested event consumers shall be included in the resource budget when sizing the hardware platform.'
+text: |
+  The performance overhead of an event being reported to interested event consumers shall be included in the resource budget when sizing the hardware platform.

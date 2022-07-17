@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.32
+level: 32
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall have a facility for specifying the type of an event when specifying the event.'
+text: |
+  The ETS shall have a facility for specifying the type of an event when specifying the event.

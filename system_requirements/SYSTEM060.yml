@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.59
+level: 59
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The performance overhead of an event occurring shall not impact the performance of required spacecraft behaviour.'
+text: |
+  The performance overhead of an event occurring shall not impact the performance of required spacecraft behaviour.

@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.28
+level: 28
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall allow for events of different types.'
+text: |
+  The ETS shall allow for events of different types.

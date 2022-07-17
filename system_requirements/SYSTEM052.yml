@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.51
+level: 51
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall be capable of retaining events that occur when the spacecraft is in an unknown state.'
+text: |
+  The ETS shall be capable of retaining events that occur when the spacecraft is in an unknown state.

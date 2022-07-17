@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.37
+level: 37
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The resource-limits-exceeded event shall have the highest priority.'
+text: |
+  The resource-limits-exceeded event shall have the highest priority.

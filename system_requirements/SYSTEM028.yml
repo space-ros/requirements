@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.27
+level: 27
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'An event reporting policy shall rely on one or more of event type, event priority, event identifier, and event frequency over a given time window.'
+text: |
+  An event reporting policy shall rely on one or more of event type, event priority, event identifier, and event frequency over a given time window.

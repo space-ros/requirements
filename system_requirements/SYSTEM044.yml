@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.43
+level: 43
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'When a retained event that has not been reported in accordance with a registered reporting policy is removed, the ETS shall generate an event.'
+text: |
+  When a retained event that has not been reported in accordance with a registered reporting policy is removed, the ETS shall generate an event.

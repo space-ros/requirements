@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.23
+level: 23
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall allow specification of event reporting policies.'
+text: |
+  The ETS shall allow specification of event reporting policies.

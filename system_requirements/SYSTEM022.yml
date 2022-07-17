@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.21
+level: 21
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The specification of event retention policies shall be possible at runtime without requiring source code changes.'
+text: |
+  The specification of event retention policies shall be possible at runtime without requiring source code changes.

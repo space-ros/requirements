@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.11
+level: 12
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'An event value may include a human-readable textual representation.'
+text: |
+  An event value may include a human-readable textual representation.

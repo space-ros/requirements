@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.53
+level: 53
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall not require a middleware for providing events to event consumers.'
+text: |
+  The ETS shall not require a middleware for providing events to event consumers.

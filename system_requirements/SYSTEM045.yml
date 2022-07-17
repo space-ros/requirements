@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.44
+level: 44
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall not be restricted to reporting events in order of occurrence.'
+text: |
+  The ETS shall not be restricted to reporting events in order of occurrence.

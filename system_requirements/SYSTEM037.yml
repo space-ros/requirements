@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.36
+level: 36
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall create an event when resource limits for retaining events are about to be exceeded.'
+text: |
+  The ETS shall create an event when resource limits for retaining events are about to be exceeded.

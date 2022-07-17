@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.41
+level: 41
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'When a downlink session commences, the ETS shall send events in order according to the registered reporting policies.'
+text: |
+  When a downlink session commences, the ETS shall send events in order according to the registered reporting policies.

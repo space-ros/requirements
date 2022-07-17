@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.25
+level: 25
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall have a facility for specifying the event reporting policies at development time.'
+text: |
+  The ETS shall have a facility for specifying the event reporting policies at development time.

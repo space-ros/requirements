@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.16
+level: 16
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall provide events to external entities as close to simultaneously as is practicable.'
+text: |
+  The ETS shall provide events to external entities as close to simultaneously as is practicable.

@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.14
+level: 14
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall be able to report an occurred event to a subset of external entities in accordance with registered reporting policies.'
+text: |
+  The ETS shall be able to report an occurred event to a subset of external entities in accordance with registered reporting policies.

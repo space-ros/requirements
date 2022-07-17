@@ -1,9 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 1.4
+level: 5
 links: []
 normative: true
 ref: ''
 reviewed: null
-text: 'The ETS shall support regularly-occurring events.'
+text: |
+  The ETS shall support regularly-occurring events.
