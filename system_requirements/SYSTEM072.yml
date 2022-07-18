@@ -1,10 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 8
+level: 18
 links: []
 normative: true
 ref: ''
 reviewed: null
 text: |
-  Event data shall be robust to corruption.
+  The ETS shall have the capability for reporting statistics about its operation.

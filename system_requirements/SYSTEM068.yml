@@ -1,0 +1,10 @@
+active: true
+derived: false
+header: ''
+level: 2.3
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  The facility for triggering the reporting of stored events shall be accessible from the flight software.

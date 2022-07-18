@@ -1,10 +1,10 @@
 active: true
 derived: false
 header: ''
-level: 8
+level: 6
 links: []
 normative: true
 ref: ''
 reviewed: null
 text: |
-  Event data shall be robust to corruption.
+  An event shall store information.
