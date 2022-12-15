@@ -1,4 +1,5 @@
 settings:
   digits: 3
+  itemformat: markdown
   prefix: SYSTEM
   sep: ''
